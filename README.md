@@ -1,13 +1,10 @@
-# ✨ InkLoom AI – Brand Governance Platform
+✨ InkLoom AI – Brand Governance Platform
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+InkLoom+AI;AI-Powered+Brand+Governance;Smarter+Content.+Stronger+Brand+Identity](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=700\&lines=Welcome+to+InkLoom+AI;AI-Powered+Brand+Governance;Smarter+Content.+Stronger+Brand+Identity)." alt="Typing SVG" />
-\</p>
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+InkLoom+AI;AI-Powered+Brand+Governance;Smarter+Content.+Stronger+Brand+Identity" alt="Typing SVG" /> </p>
 
-\<p align="center">   \<b>AI-powered platform for maintaining brand consistency, content quality, and governance.\</b> \</p>
+<p align="center">   <b>AI-powered platform for maintaining brand consistency, content quality, and governance.</b> </p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge](https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Platform-Brand%20Governance-blue?style=for-the-badge](https://img.shields.io/badge/Platform-Brand%20Governance-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Status-Development-orange?style=for-the-badge](https://img.shields.io/badge/Status-Development-orange?style=for-the-badge)" /> \</p>
-
+<p align="center">   <img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge" alt="AI Powered" />   <img src="https://img.shields.io/badge/Platform-Brand%20Governance-blue?style=for-the-badge" alt="Brand Governance" />   <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Development Status" /> </p>
 ---
 
 ## 🚀 About InkLoom AI
@@ -30,8 +27,12 @@ The platform also supports a human-controlled review and approval workflow, ensu
 - **Governance Tracking:** Maintains review records and content status.
 
 ## 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-\<p align="center">   \<a href="[https://react.dev/](https://react.dev/)">     \<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)" />   \</a>   \<a href="[https://tailwindcss.com/](https://tailwindcss.com/)">     \<img src="[https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)" />   \</a>   \<a href="[https://nodejs.org/](https://nodejs.org/)">     \<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" />   \</a>   \<a href="[https://expressjs.com/](https://expressjs.com/)">     \<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)" />   \</a>   \<a href="[https://www.postgresql.org/](https://www.postgresql.org/)">     \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)" />   \</a>   \<a href="[https://www.python.org/](https://www.python.org/)">     \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />   \</a>   \<a href="[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)">     \<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)" />   \</a>   \<a href="[https://www.jwt.io/](https://www.jwt.io/)">     \<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)" />   \</a> \</p>
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,python,fastapi,git,github,vscode&perline=5](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,python,fastapi,git,github,vscode\&perline=5)" /> \</p>
+
+\<p align="center">   \<b>Frontend\</b> • React.js • Tailwind CSS   \<br/>   \<b>Backend\</b> • Node.js • Express.js   \<br/>   \<b>Database\</b> • PostgreSQL   \<br/>   \<b>AI & API\</b> • Python • FastAPI • LLM API   \<br/>   \<b>Tools\</b> • Git • GitHub • VS Code \</p>
+
 
 ## 🏗️ System Architecture
 
