@@ -27,12 +27,15 @@ The platform also supports a human-controlled review and approval workflow, ensu
 - **Governance Tracking:** Maintains review records and content status.
 
 ## 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,python,fastapi,git,github,vscode&perline=5](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,python,fastapi,git,github,vscode\&perline=5)" /> \</p>
-
-\<p align="center">   \<b>Frontend\</b>\<br>   React.js | Tailwind CSS   \<br>\<br>   \<b>Backend\</b>\<br>   Node.js | Express.js   \<br>\<br>   \<b>Database\</b>\<br>   PostgreSQL   \<br>\<br>   \<b>AI & API\</b>\<br>   Python | FastAPI | LLM API \</p>
-
-
+| Category | Technologies |
+|---|---|
+| 🎨 Frontend | React.js, Tailwind CSS |
+| ⚙️ Backend | Node.js, Express.js |
+| 🗄️ Database | PostgreSQL |
+| 🤖 AI & API | Python, FastAPI, LLM API |
+| 🔧 Tools | Git, GitHub, VS Code |>
 
 ## 🏗️ System Architecture
 
